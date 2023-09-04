@@ -15,7 +15,7 @@ const maskingString = "I believe in the mind reader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
-! [Dunetocat](img/dunetocat.png)
+![Dunetocat](img/dunetocat.png)
 
 ### Week 2
 
