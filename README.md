@@ -27,16 +27,30 @@ const maskingString = "I believe in the mind reader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## AHA Moments
 
-Regarding pseudocode:
+# Regarding pseudocode:
+
 - Was definitely not capitalizing entire initial keywords before.  This makes it so much easier to glance at and take note of what is happening.
 - Instead of thinking of pseudocode as extra work to be done in order to come off as organized think of it as less work.  You get to "write code" without any syntax killing your program.  This is obvious but throughout this bootcamp as a whole it helps me to find any method I can to "trick my brain".  Even though it's not "lazy" programming - telling my brain that it's a shortcut to be lazy makes my mind feel refreshed.
 - Seeing how simple the pseudocode was for the PB&J sandwich.  I'm curious to know other's experiences because that pseudocode was my biggest challenge in the Figure It Out exercises for the bootcamp application.  I opened it up again out of curiosity and you can see how bogged down I became in the minor details.  Capitalizing initial keywords would have made it easier to read along with staying away from multi-lines.  It's a relief that pseudocode doesn't have to be as complicated as I made it out to be.
 
 ![Screenshot says "Capitalize initial keywords (READ, WRITE, IF, WHILE, UNTIL)](img/Screenshot%202023-09-06%20092525.png)
 
-![My first attempt at pseudocode for how to make a peanut butter and jelly sandwich](img/Screenshot%202023-09-06%20092525.png)
+![My first attempt at pseudocode for how to make a peanut butter and jelly sandwich](img/Screenshot%202023-09-06%20093042.png)
 
 ![Screenshot of simplified pseudocode for how to make a peanut butter and jelly sandwich by Awesome Inc](img/Screenshot%202023-09-06%20094548.png)
+
+# Regarding markdown image insertion
+
+Resolved an issue of my screenshots not appearing in my blog.
+
+When I take a screenshot on my pc the image is auto-saved with a file name that has spaces in it.  If you have spaces in your image file paths in markdown the images will not appear.
+
+Stack overflow gave me the solution: If you don't want to rename your files to exclude spaces type "%20" everywhere there is a space in the file path. Your alt text will highlight in green if successful.
+
+Attached is the code before and after.
+
+![Screenshot of bad markdown code with image file paths that have spaces](img/Screenshot%202023-09-06%20110159.png)
+![Screenshot of good markdown code with image file paths with no spaces.  The alt text is highlighted in green in VScode.](img/Screenshot%202023-09-06%20110305.png)
 
 ## Resources
 
