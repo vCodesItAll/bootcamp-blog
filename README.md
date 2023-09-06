@@ -32,7 +32,11 @@ Regarding pseudocode:
 - Instead of thinking of pseudocode as extra work to be done in order to come off as organized think of it as less work.  You get to "write code" without any syntax killing your program.  This is obvious but throughout this bootcamp as a whole it helps me to find any method I can to "trick my brain".  Even though it's not "lazy" programming - telling my brain that it's a shortcut to be lazy makes my mind feel refreshed.
 - Seeing how simple the pseudocode was for the PB&J sandwich.  I'm curious to know other's experiences because that pseudocode was my biggest challenge in the Figure It Out exercises for the bootcamp application.  I opened it up again out of curiosity and you can see how bogged down I became in the minor details.  Capitalizing initial keywords would have made it easier to read along with staying away from multi-lines.  It's a relief that pseudocode doesn't have to be as complicated as I made it out to be.
 
-! [Screenshot says "Capitalize initial keywords (READ, WRITE, IF, WHILE, UNTIL)](img/Screenshot 2023-09-06 092525.png)
+![Screenshot says "Capitalize initial keywords (READ, WRITE, IF, WHILE, UNTIL)](img/Screenshot 2023-09-06 092525.png)
+
+![My first attempt at pseudocode for how to make a peanut butter and jelly sandwich](img/Screenshot 2023-09-06 092525.png)
+
+![Simple pseudocode to make a peanut butter and jelly sandiwch written by Awesome Inc](img/Screenshot 2023-09-06 094548.png)
 
 ## Resources
 
