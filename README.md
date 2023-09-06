@@ -33,3 +33,17 @@ Regarding pseudocode:
 - Seeing how simple the pseudocode was for the PB&J sandwich.  I'm curious to know other's experiences because that pseudocode was my biggest challenge in the Figure It Out exercises for the bootcamp application.  I opened it up again out of curiosity and you can see how bogged down I became in the minor details.  Capitalizing initial keywords would have made it easier to read along with staying away from multi-lines.  It's a relief that pseudocode doesn't have to be as complicated as I made it out to be.
 
 ! [Screenshot says "Capitalize initial keywords (READ, WRITE, IF, WHILE, UNTIL)](img/Screenshot 2023-09-06 092525.png)
+
+## Resources
+
+If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
+With the Google Slides: You can select File > Download > Plain Text (.txt)
+Open that file and copy and paste it into a TTS reader.
+I like this one because it has free voices to choose from.
+https://www.naturalreaders.com/online/
+You can adjust the speed up to 5x! and when you hit play it shows the sentence that is being read highlighted at the bottom word by word.  It also shows you the total time it will take to read the entire document so if you have a time restraint you can allow it to speed read to fit your schedule.
+My criticisms are that the free voices sound SUPER robotic and in the google slides it reads the headers so I heard a lot of repeated "pseudocode" "pseudocode" "pseudocode".
+
+naturalreaders.comnaturalreaders.com
+Free Text to Speech Online with Realistic AI Voices
+Convert text into ultra-realistic audio. Have any text read aloud with AI Voices. AI text reader for pdfs, books, documents, and webpages.
