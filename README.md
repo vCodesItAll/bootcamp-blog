@@ -83,15 +83,17 @@ Last 24:
 
 - Copied these AHA moments into my blog so they won't disappear over the years when our bootcamp messages disappear. Jacob, my summer web dev instructor, told our class that after a few cohort sessions Slack reaches its max message capacity and the older messages get deleted so make sure you save what you want to hold onto.
 
+- Watched the 2 pseudocode videos.
+
 Larger goals:
 
 - Move my posts over to my Bootstrap blog site and organize the cards to take you to my posts week by week.
-- Also have a navigation bar taht will sort hashtags of my AHA moments and resources and compile thse onto their own pages.
+- Also have a navigation bar that will sort hashtags of my AHA moments and resources and compile thse onto their own pages.
 - I would also love to include a "mindspace musings" page because one of my overall goals as a developer is to provide avenues for mental health communication.  For me that goes hand-in-hand with how I approach development so I hope that could be a good resource for anyone who would read my blog.
 
 Next 24:
 
-- Write the pseudocode for the silly story generator in a README.md file then I will copy that into my javascript file as comments and fill in my code around that.
+- Write the pseudocode for the silly story generator in a pseudocode.md file broken down into functionality, objects, and data structures. I will copy that into my javascript file as comments and fill in my code around that.
 - Find a way to add some spice. Maybe throw in an image API so whatever word you input in the generator will search that word through the website Unsplash and return a random image result so it's different with every click.
 
 16th Minute Item:
