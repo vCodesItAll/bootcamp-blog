@@ -2,7 +2,7 @@
 
 ![Mummytocat](img/mummytocat.gif)
 
-### Week 1
+## Week 1
 
 - My first week was about three times more difficult than I expected.  I'd consider the stresses of getting the workplaces setup more difficult than our final project from intro to web development.  Debugging is something I've had experience with and had success with but git is something that has confused me for years and I was never able to surmount that mountain to understand how to use it properly.  
 - I am excited to learn backend development since that will be brand new to me and I think it's a career path I would like to pursue.  The visual creativity of frontend development is something I find especially exhausting.  I want to see what the backend entails.
@@ -17,7 +17,7 @@ const maskingString = "I believe in the mind reader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ![Dunetocat](img/dunetocat.png)
 
-### Week 2
+## Week 2
 
 - I chose Dunetocat this week because it looks intrepid and I feel ready to kick butt this week.
 - I wish I could use Drupal since it seems like the trendy CMS to use at the moment.  (Content management system - I learned that this week!) but I don't know PHP yet.
@@ -25,9 +25,9 @@ const maskingString = "I believe in the mind reader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - I solve problems by taking a mental intake of whether something in my mind is creating an obstacle first.  Am I frazzled?  Am I fed?  Am I exhausted?  If I'm taken care of then I consult my resources on my own.  If I still can not find a solution within an hour then I reach out to my peers for help.  If we can't find the solution I was hoping for then I find an alternative that will help the most it can then I move on!
  - The methods are use for getting unstuck: get fresh air, eat something, workout, lay down, consult documentation, Google, ask Bob Dos, ask my peers, find a new method!
 
-## AHA Moments
+### AHA Moments
 
-# Regarding pseudocode:
+#### Regarding pseudocode:
 
 - Was definitely not capitalizing entire initial keywords before.  This makes it so much easier to glance at and take note of what is happening.
 - Instead of thinking of pseudocode as extra work to be done in order to come off as organized think of it as less work.  You get to "write code" without any syntax killing your program.  This is obvious but throughout this bootcamp as a whole it helps me to find any method I can to "trick my brain".  Even though it's not "lazy" programming - telling my brain that it's a shortcut to be lazy makes my mind feel refreshed.
@@ -39,7 +39,7 @@ const maskingString = "I believe in the mind reader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ![Screenshot of simplified pseudocode for how to make a peanut butter and jelly sandwich by Awesome Inc](img/Screenshot%202023-09-06%20094548.png)
 
-# Regarding markdown image insertion
+#### Regarding markdown image insertion:
 
 Resolved an issue of my screenshots not appearing in my blog.
 
@@ -52,7 +52,7 @@ Attached is the code before and after.
 ![Screenshot of bad markdown code with image file paths that have spaces](img/Screenshot%202023-09-06%20110159.png)
 ![Screenshot of good markdown code with image file paths with no spaces.  The alt text is highlighted in green in VScode.](img/Screenshot%202023-09-06%20110305.png)
 
-## Resources
+### Resources
 
 If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
 
