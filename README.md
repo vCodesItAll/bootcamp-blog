@@ -51,6 +51,3 @@ https://www.naturalreaders.com/online/
 You can adjust the speed up to 5x! and when you hit play it shows the sentence that is being read highlighted at the bottom word by word.  It also shows you the total time it will take to read the entire document so if you have a time restraint you can allow it to speed read to fit your schedule.
 My criticisms are that the free voices sound SUPER robotic and in the google slides it reads the headers so I heard a lot of repeated "pseudocode" "pseudocode" "pseudocode".
 
-naturalreaders.comnaturalreaders.com
-Free Text to Speech Online with Realistic AI Voices
-Convert text into ultra-realistic audio. Have any text read aloud with AI Voices. AI text reader for pdfs, books, documents, and webpages.
