@@ -91,8 +91,8 @@ Larger goals:
 
 Next 24:
 
-- Write the pseudocode for the silly story generator and find a way to add some spice.
-- Maybe throw in an image API so whatever word you input in the generator will search that word through the website Unsplash and return a random image result so it's different with every click.
+- Write the pseudocode for the silly story generator in a README.md file then I will copy that into my javascript file as comments and fill in my code around that.
+- Find a way to add some spice. Maybe throw in an image API so whatever word you input in the generator will search that word through the website Unsplash and return a random image result so it's different with every click.
 
 16th Minute Item:
 
