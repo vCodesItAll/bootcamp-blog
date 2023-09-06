@@ -73,7 +73,7 @@ My criticisms are that the free voices sound SUPER robotic and in the google sli
 
 Mindspace Musing: 
 
-- My brain feels like it's going to explode.  It's just one of those days where I'm extra exhausted even though I got plenty of sleep.  If you're familiar with those old ads that said "This is your brain on drugs" - I feel like "This is your brain on an AGILE Development sprint."
+- My brain feels like it's going to explode.  It's just one of those days where I'm extra exhausted even though I got plenty of sleep.  If you're familiar with those old ads that said "This is your brain on drugs" - I feel like "This is your brain on an AGILE Development sprint." I think I need to take more breaks to stand up and walk around.
 
 Last 24: 
 
