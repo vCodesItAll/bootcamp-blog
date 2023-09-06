@@ -36,15 +36,18 @@ Regarding pseudocode:
 
 ![My first attempt at pseudocode for how to make a peanut butter and jelly sandwich](img/Screenshot 2023-09-06 092525.png)
 
-![Simple pseudocode to make a peanut butter and jelly sandiwch written by Awesome Inc](img/Screenshot 2023-09-06 094548.png)
+![test](img/Screenshot 2023-09-06 094548.png)
 
 ## Resources
 
 If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
+
 With the Google Slides: You can select File > Download > Plain Text (.txt)
 Open that file and copy and paste it into a TTS reader.
+
 I like this one because it has free voices to choose from.
 https://www.naturalreaders.com/online/
+
 You can adjust the speed up to 5x! and when you hit play it shows the sentence that is being read highlighted at the bottom word by word.  It also shows you the total time it will take to read the entire document so if you have a time restraint you can allow it to speed read to fit your schedule.
 My criticisms are that the free voices sound SUPER robotic and in the google slides it reads the headers so I heard a lot of repeated "pseudocode" "pseudocode" "pseudocode".
 
