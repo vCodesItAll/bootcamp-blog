@@ -65,3 +65,36 @@ https://www.naturalreaders.com/online/
 You can adjust the speed up to 5x! and when you hit play it shows the sentence that is being read highlighted at the bottom word by word.  It also shows you the total time it will take to read the entire document so if you have a time restraint you can allow it to speed read to fit your schedule.
 My criticisms are that the free voices sound SUPER robotic and in the google slides it reads the headers so I heard a lot of repeated "pseudocode" "pseudocode" "pseudocode".
 
+---
+
+# Standups
+
+**9/6/2023**
+
+Mindspace Musing: 
+
+- My brain feels like it's going to explode.  It's just one of those days where I'm extra exhausted even though I got plenty of sleep.  If you're familiar with those old ads that said "This is your brain on drugs" - I feel like "This is your brain on an AGILE Development sprint."
+
+Last 24: 
+
+- Listened to pseudocode Google slides via a text to speech generator and posted my experience and a link to the site in the resources channel in slack
+
+- Posted my AHA moments to the sprint 03 onboarding channel.  They include my thoughts on pseudocode and a fix to get your images to appear in your markdown blog.
+
+- Copied these AHA moments into my blog so they won't disappear over the years when our bootcamp messages disappear. Jacob, my summer web dev instructor, told our class that after a few cohort sessions Slack reaches its max message capacity and the older messages get deleted so make sure you save what you want to hold onto.
+
+Larger goals:
+
+- Move my posts over to my Bootstrap blog site and organize the cards to take you to my posts week by week.
+- Also have a navigation bar taht will sort hashtags of my AHA moments and resources and compile thse onto their own pages.
+- I would also love to include a "mindspace musings" page because one of my overall goals as a developer is to provide avenues for mental health communication.  For me that goes hand-in-hand with how I approach development so I hope that could be a good resource for anyone who would read my blog.
+
+Next 24:
+
+- Write the pseudocode for the silly story generator and find a way to add some spice.
+- Maybe throw in an image API so whatever word you input in the generator will search that word through the website Unsplash and return a random image result so it's different with every click.
+
+16th Minute Item:
+
+- When I hit "go live" in Gitpod for my blog I would like it to show me a README.md preview.  Instead it shows a link and then when clicked it shows the markdown code.
+
