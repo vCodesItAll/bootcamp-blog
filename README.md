@@ -24,3 +24,30 @@ const maskingString = "I believe in the mind reader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - I struggle with an initial overload moment each time I sit down to work.  It's short but it's disorienting.  I think it will only minimize with time or I'll develop a higher confidence that it won't stop me.
 - I solve problems by taking a mental intake of whether something in my mind is creating an obstacle first.  Am I frazzled?  Am I fed?  Am I exhausted?  If I'm taken care of then I consult my resources on my own.  If I still can not find a solution within an hour then I reach out to my peers for help.  If we can't find the solution I was hoping for then I find an alternative that will help the most it can then I move on!
  - The methods are use for getting unstuck: get fresh air, eat something, workout, lay down, consult documentation, Google, ask Bob Dos, ask my peers, find a new method!
+
+## AHA Moments
+
+Regarding pseudocode:
+- Was definitely not capitalizing entire initial keywords before.  This makes it so much easier to glance at and take note of what is happening.
+- Instead of thinking of pseudocode as extra work to be done in order to come off as organized think of it as less work.  You get to "write code" without any syntax killing your program.  This is obvious but throughout this bootcamp as a whole it helps me to find any method I can to "trick my brain".  Even though it's not "lazy" programming - telling my brain that it's a shortcut to be lazy makes my mind feel refreshed.
+- Seeing how simple the pseudocode was for the PB&J sandwich.  I'm curious to know other's experiences because that pseudocode was my biggest challenge in the Figure It Out exercises for the bootcamp application.  I opened it up again out of curiosity and you can see how bogged down I became in the minor details.  Capitalizing initial keywords would have made it easier to read along with staying away from multi-lines.  It's a relief that pseudocode doesn't have to be as complicated as I made it out to be.
+
+![Screenshot says "Capitalize initial keywords (READ, WRITE, IF, WHILE, UNTIL)](img/Screenshot 2023-09-06 092525.png)
+
+![My first attempt at pseudocode for how to make a peanut butter and jelly sandwich](img/Screenshot 2023-09-06 092525.png)
+
+![Simple pseudocode to make a peanut butter and jelly sandiwch written by Awesome Inc](img/Screenshot 2023-09-06 094548.png)
+
+## Resources
+
+If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
+With the Google Slides: You can select File > Download > Plain Text (.txt)
+Open that file and copy and paste it into a TTS reader.
+I like this one because it has free voices to choose from.
+https://www.naturalreaders.com/online/
+You can adjust the speed up to 5x! and when you hit play it shows the sentence that is being read highlighted at the bottom word by word.  It also shows you the total time it will take to read the entire document so if you have a time restraint you can allow it to speed read to fit your schedule.
+My criticisms are that the free voices sound SUPER robotic and in the google slides it reads the headers so I heard a lot of repeated "pseudocode" "pseudocode" "pseudocode".
+
+naturalreaders.comnaturalreaders.com
+Free Text to Speech Online with Realistic AI Voices
+Convert text into ultra-realistic audio. Have any text read aloud with AI Voices. AI text reader for pdfs, books, documents, and webpages.
