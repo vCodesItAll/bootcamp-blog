@@ -52,6 +52,18 @@ Attached is the code before and after.
 ![Screenshot of bad markdown code with image file paths that have spaces](img/Screenshot%202023-09-06%20110159.png)
 ![Screenshot of good markdown code with image file paths with no spaces.  The alt text is highlighted in green in VScode.](img/Screenshot%202023-09-06%20110305.png)
 
+#### Things that are helping me with pseudocode so far:
+
+- Writing down the vending machine pseudocode deconstruction on notecards to reference
+- Color coding to differentiate functionality and objects/data structures
+- Underlining the overarching functionality to resemble a template that can be used for other projects (As a user I want to ___ so that I can ___. )
+- Using a whiteboard whether tangible or online to easily visualize then erase your ideas and also color code.  A magnetized whiteboard allows you to keep your reference on-hand to compare
+
+Feedback for my functionality notes so far is welcome.  It looks pretty but this is my first shot at this.
+
+![Photo of flashcards containing a pseudocode breakdown example](img/PXL_20230906_181451386.jpg)
+![Photo of whiteboard with functionality notes for silly story generator](img/PXL_20230906_181502588.jpg)
+
 ### Resources
 
 If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
@@ -84,6 +96,8 @@ Last 24:
 - Copied these AHA moments into my blog so they won't disappear over the years when our bootcamp messages disappear. Jacob, my summer web dev instructor, told our class that after a few cohort sessions Slack reaches its max message capacity and the older messages get deleted so make sure you save what you want to hold onto.
 
 - Watched the 2 pseudocode videos.
+
+- Used the whiteboard to map out my functionality for my silly story generator pseudocode.
 
 Larger goals:
 
