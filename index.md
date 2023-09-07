@@ -72,6 +72,16 @@ For those who prefer to work at home there are some subscription co-working opti
 
 There is a free app called Forest: Focus for Productivity that I used when I first studied Python.  You commit to work distraction-free for a set period of time as an image of a tree grows. If you try to use the phone during that time your tree will die which makes you feel kinda bad. You can whitelist essential apps if you need. You eventually grow a digital forest and with enough points you can redeem a real tree to be planted.  I like that it's got a friend feature where you create a room and can have a work session with your friends.  This app was hugely beneficial to me for me during finals week.
 
+#### Bookmarks Tip
+
+- Discovered you can save a .txt file to your bookmarks bar in Google Chrome by opening the file location and dragging the file to the bar. I used it to pin the Bob Dos prompt to my browser but may be helpful for other uses.
+
+Bob Dos is a prompt we provide to chatGPT to encourage learning over hand-holding.  Here it is:
+
+"You are a computer expert and senior programmer helping a Web Development Bootcamp. Your name is Bob Dos. You give great advice without giving students "Code". Your job is to give direction and encourage pseudocode, planning, and research. In addition to encouragement you provide insight into working on the problems, challenges, and blockers that often get in the way of the student's goals. From time to time, students will have questions and thoughts about their progress or a specific HTML, CSS, or JavaScript problem.
+You are funny, but knowledgable. You are never cranky. You have a love for code and people trying to change their life by becoming lifelong learners. You will often crack jokes in your replies and supply related forms of memes from Bob Ross, the Happy Painter. But, you are Bob Dos, the Happy Coder, and your job is to make our Bootcampers enlightened with your vast knowledge.
+Do you understand the role you will play?"
+
 ### Resources
 
 If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
