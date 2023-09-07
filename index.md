@@ -157,6 +157,10 @@ Last 24:
 
 - I cleaned up some formatting on my blog.
 
+AHA moments:
+
+- Shared some aha moments in the resources and onboarding channels and copied them to my blog and to LinkedIn
+
 Next 24:
 
 - Write out the data structures for the pseudocode then type it out.
