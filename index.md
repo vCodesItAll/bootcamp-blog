@@ -124,3 +124,20 @@ Next 24:
 
 **Thursday 9/7/23**
 
+Last 24: 
+
+- Wrote out my functionality and drew an objects web for the pseudocode project.  I've chosen "describing how an elevator works" since you said that's your common go-to question to ask I figured you could provide some good feedback.
+
+- Filmed 2 videos for LinkedIn.  One is very short introductory video stating that I'm in the bootcamp and sharing my purpose to track my journey and answer questions from people who would be curious to join.  My 2nd video was my productivity AHA moment that I posted in the Sprint channel this morning.
+
+- Shared on a fail on the kitchen whiteboard here because I thought I locked myself in the solo meeting room and I asked Stephen to free me when all he had to do was slide the door open.  Signed it as Vanessa, the girl with orange hair, to give people an idea of who I am.
+
+- I helped out a student from Lafayette High School who was here shadowing people for career experience.  I showed him where he needed to be and offered to answer any questions he had.
+
+Next 24:
+
+- Write out the data structures for the pseudocode then type it out.
+
+- Complete the silly story generator.
+
+- Brainstorm questions I can ask during demo day.
