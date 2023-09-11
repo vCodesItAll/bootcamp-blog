@@ -25,6 +25,21 @@ const maskingString = "I believe in the mind reader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - I solve problems by taking a mental intake of whether something in my mind is creating an obstacle first.  Am I frazzled?  Am I fed?  Am I exhausted?  If I'm taken care of then I consult my resources on my own.  If I still can not find a solution within an hour then I reach out to my peers for help.  If we can't find the solution I was hoping for then I find an alternative that will help the most it can then I move on!
  - The methods are use for getting unstuck: get fresh air, eat something, workout, lay down, consult documentation, Google, ask Bob Dos, ask my peers, find a new method!
 
+
+
+![NUXtocat](img/NUX_Octodex.gif)
+
+## Week 3
+
+I chose NUXtocat for this week because its image appears laid back and excited to create.  It's also holding the hand waving signal which I'm attributing to a willingness to seek help and share accomplishments and challenges.
+
+I like an analogy that Jacob made over the summer regarding the roles of HTML, CSS, and Javascript.  HTML is like the skeleton.  It's the bare bones - the structure.  CSS is like the skin.  It's what we cover the HTML in to pretty it up.  Javascript is the muscles and joints that allow the skeleton to function - to move around and do a lil happy dance.
+
+My blog is made from markdown at the moment.  I incorporate gifs and pngs for pictures.  It's formatted with unordered lists and line breaks.  As the blog develops I can use html to create a nav bar and CSS to apply some pastel colors.  I can use javascript to create a carousel or a stickied nav bar.
+
+
+---
+---
 ### AHA Moments
 
 #### Regarding pseudocode:
@@ -169,12 +184,18 @@ Next 24:
 
 - Brainstorm questions I can ask during demo day.
 
-![NUXtocat](img/NUX_Octodex.gif)
+**Monday 9/11/23**
 
-## Week 3
+Last 24:
 
-I chose NUXtocat for this week because its image appears laid back and excited to create.  It's also holding the hand waving signal which I'm attributing to a willingness to seek help and share accomplishments and challenges.
+- I finished my week 3 assessment
+- Registered on codewars and joined the class repo
+- Left a comment in the classroom with my retrospective thoughts
+- Listened to the last 3 pages on Javascript then went back and reviewed the code
+- Read the wikipedia pages for procedural programming and programming paradigm
+- Added week 3 to my blog
 
-I like an analogy that Jacob made over the summer regarding the roles of HTML, CSS, and Javascript.  HTML is like the skeleton.  It's the bare bones - the structure.  CSS is like the skin.  It's what we cover the HTML in to pretty it up.  Javascript is the muscles and joints that allow the skeleton to function - to move around and do a lil happy dance.
+Next 24:
 
-My blog is made from markdown at the moment.  I incorporate gifs and pngs for pictures.  It's formatted with unordered lists and line breaks.  As the blog develops I can use html to create a nav bar and CSS to apply some pastel colors.  I can use javascript to create a carousel or a stickied nav bar.
+- Complete the katas
+- Complete the next three exercises in FreeCodeCamp
