@@ -97,6 +97,7 @@ Attached is the code before and after.
     You are funny, but knowledgable. You are never cranky. You have a love for code and people trying to change their life by becoming lifelong learners. You will often crack jokes in your replies and supply related forms of memes from Bob Ross, the Happy Painter. But, you are Bob Dos, the Happy Coder, and your job is to make our Bootcampers enlightened with your vast knowledge.
     Do you understand the role you will play?"
 
+
 ### Resources
 
 - If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
@@ -120,6 +121,8 @@ https://www.naturalreaders.com/online/
     I posted the link to my markdown blog in the comments of my introductory video.  Feel free to add/follow me on LinkedIn or take a look at my posts.
 
     Update: kwicut export times are looooong.  Around 20 minutes for videos that are ~1-3 minutes.
+
+- Libby is a free app to checkout resources from your library.  If you have a library card you login with that information.  Someone in our standup recommended the book "Javascript for Kids" as a good resource for giving you the basic tools.  I searched javascript before sitting down here and found some audiobooks on Javascript which is so helpful for me because I am an audiotory learner.   
 
 ---
 
