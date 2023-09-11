@@ -122,7 +122,7 @@ https://www.naturalreaders.com/online/
 
     Update: kwicut export times are looooong.  Around 20 minutes for videos that are ~1-3 minutes.
 
-- Libby is a free app to checkout resources from your library.  If you have a library card you login with that information.  Someone in our standup recommended the book "Javascript for Kids" as a good resource for giving you the basic tools.  I searched javascript before sitting down here and found some audiobooks on Javascript which is so helpful for me because I am an audiotory learner.   
+- Libby is a free app to checkout resources from your library.  If you have a library card you login with that information.  Someone in our standup recommended the book "Javascript for Kids" as a good resource for giving you the basic tools.  I searched javascript before sitting down here and found some audiobooks on Javascript which is so helpful for me because I am an auditory learner.   
 
 ---
 
