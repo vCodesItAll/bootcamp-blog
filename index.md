@@ -168,3 +168,9 @@ Next 24:
 - Complete the silly story generator.
 
 - Brainstorm questions I can ask during demo day.
+
+![NUXtocat](img/NUX_Octodex.gif)
+
+## Week 3
+
+I chose NUXtocat for this week because its image appears laid back and excited to create.  It's also holding the hand waving signal which I'm attributing to a willingness to seek help and share accomplishments and challenges.
