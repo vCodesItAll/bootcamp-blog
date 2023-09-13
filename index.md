@@ -236,3 +236,5 @@ Last 24:
 Next 24:
 
 - I will finish my project so it will be ready in time for code freeze.
+
+- I have a collaborative idea for a video on series for LinkedIn that I want to film a template of so I can pitch it to members of Awesome Inc.  (Already pitched it to my father and he rejected me so hopefully a demo will convince people it's worth their time and image being online)
