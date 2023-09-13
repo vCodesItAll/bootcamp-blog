@@ -107,6 +107,10 @@ Attached is the code before and after.
 
     ![Screenshot of my readme.md checklist](img/Screenshot%202023-09-13%20095141.png)
 
+#### Regarding files in folders
+
+- This one's thanks to Jett. If you put your css or js file in a folder make sure you have the correct relative image paths in your source link.  I noticed the problem when I was able to edit my css in inspect but not in my css file.
+
 ### Resources
 
 - If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
@@ -248,6 +252,7 @@ Next 24:
 
 - I have a collaborative idea for a video on series for LinkedIn that I want to film a template of so I can pitch it to members of Awesome Inc.  (Already pitched it to my father and he rejected me so hopefully a demo will convince people it's worth their time and image being online).
 
-AHA Moments: 
+AHA Moment: 
 
-- 
+- This one's thanks to Jett. If you put your css or js file in a folder make sure you have the correct relative image paths in your source link.  I noticed the problem when I was able to edit my css in inspect but not in my css file.
+
