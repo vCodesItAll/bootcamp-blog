@@ -97,6 +97,10 @@ Attached is the code before and after.
     You are funny, but knowledgable. You are never cranky. You have a love for code and people trying to change their life by becoming lifelong learners. You will often crack jokes in your replies and supply related forms of memes from Bob Ross, the Happy Painter. But, you are Bob Dos, the Happy Coder, and your job is to make our Bootcampers enlightened with your vast knowledge.
     Do you understand the role you will play?"
 
+#### Regarding Order of Projects and Courses
+
+-  Open up all projects first.  I did the sum kata before the range kata and I think it would have been more helpful to reverse that order.  With the Freecodecamp I make sure to look at the order of the assigned courses before starting.
+
 
 ### Resources
 
@@ -202,3 +206,21 @@ Next 24:
 
 - Complete the katas
 - Complete the next three exercises in FreeCodeCamp
+
+**Tuesday 9/12/23**
+
+Last 24:
+
+- I filmed a resource video for Linkedin and did not get locked in the room this time, finished all my katas, completed the debugging and object oriented programming courses on Freecodecamp
+
+Next 24: 
+
+- If project is released at 8am I'll pseudocode that and get working on code
+
+Challenge:
+
+ - I'm hellbent on not letting my hobbies and social life slip by the wayside so my goal is to knock this project out of the way in a timely manner.
+
+AHA moment:
+
+    - Open up all projects first.  I did the sum kata before the range kata and I think it would have been more helpful to reverse that order.  With the Freecodecamp I make sure to look at the order of the assigned courses before starting.
