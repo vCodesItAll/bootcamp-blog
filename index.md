@@ -25,6 +25,21 @@ const maskingString = "I believe in the mind reader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - I solve problems by taking a mental intake of whether something in my mind is creating an obstacle first.  Am I frazzled?  Am I fed?  Am I exhausted?  If I'm taken care of then I consult my resources on my own.  If I still can not find a solution within an hour then I reach out to my peers for help.  If we can't find the solution I was hoping for then I find an alternative that will help the most it can then I move on!
  - The methods are use for getting unstuck: get fresh air, eat something, workout, lay down, consult documentation, Google, ask Bob Dos, ask my peers, find a new method!
 
+
+
+![NUXtocat](img/NUX_Octodex.gif)
+
+## Week 3
+
+I chose NUXtocat for this week because its image appears laid back and excited to create.  It's also holding the hand waving signal which I'm attributing to a willingness to seek help and share accomplishments and challenges.
+
+I like an analogy that Jacob made over the summer regarding the roles of HTML, CSS, and Javascript.  HTML is like the skeleton.  It's the bare bones - the structure.  CSS is like the skin.  It's what we cover the HTML in to pretty it up.  Javascript is the muscles and joints that allow the skeleton to function - to move around and do a lil happy dance.
+
+My blog is made from markdown at the moment.  I incorporate gifs and pngs for pictures.  It's formatted with unordered lists and line breaks.  As the blog develops I can use html to create a nav bar and CSS to apply some pastel colors.  I can use javascript to create a carousel or a stickied nav bar.
+
+
+---
+---
 ### AHA Moments
 
 #### Regarding pseudocode:
@@ -82,6 +97,20 @@ Attached is the code before and after.
     You are funny, but knowledgable. You are never cranky. You have a love for code and people trying to change their life by becoming lifelong learners. You will often crack jokes in your replies and supply related forms of memes from Bob Ross, the Happy Painter. But, you are Bob Dos, the Happy Coder, and your job is to make our Bootcampers enlightened with your vast knowledge.
     Do you understand the role you will play?"
 
+#### Regarding Order of Projects and Courses
+
+-  Open up all projects first.  I did the sum kata before the range kata and I think it would have been more helpful to reverse that order.  With the Freecodecamp I make sure to look at the order of the assigned courses before starting.
+
+#### Regarding Checklist Organization for Projects
+
+- This is an organizational format I learned over the summer that I'll be using to keep myself organized with the alarm clock project.  You can copy the requirements from the Google classroom and paste them into your readme file.  I like to create a checklist as I go to make sure I'm meeting the MVP but also so I can stay focused on bite-sized goals.  I like to add To Do list, Stretch Goals, and then Bugs to fix.  You can check them off as you go or order by importance. Just a tool for your toolbelt if you need.
+
+    ![Screenshot of my readme.md checklist](img/Screenshot%202023-09-13%20095141.png)
+
+#### Regarding files in folders
+
+- This one's thanks to Jett. If you put your css or js file in a folder make sure you have the correct relative image paths in your source link.  I noticed the problem when I was able to edit my css in inspect but not in my css file.
+
 ### Resources
 
 - If any of you are auditory learners like me - I just used a text-to-speech reader for the pseudocode Google slides and I found it helpful.  I told Team Boole that I believed it would be useful to have initial concepts read to me before my eyes see code examples.
@@ -105,6 +134,8 @@ https://www.naturalreaders.com/online/
     I posted the link to my markdown blog in the comments of my introductory video.  Feel free to add/follow me on LinkedIn or take a look at my posts.
 
     Update: kwicut export times are looooong.  Around 20 minutes for videos that are ~1-3 minutes.
+
+- Libby is a free app to checkout resources from your library.  If you have a library card you login with that information.  Someone in our standup recommended the book "Javascript for Kids" as a good resource for giving you the basic tools.  I searched javascript before sitting down here and found some audiobooks on Javascript which is so helpful for me because I am an auditory learner.   
 
 ---
 
@@ -157,6 +188,10 @@ Last 24:
 
 - I cleaned up some formatting on my blog.
 
+AHA moments:
+
+- Shared some aha moments in the resources and onboarding channels and copied them to my blog and to LinkedIn
+
 Next 24:
 
 - Write out the data structures for the pseudocode then type it out.
@@ -164,3 +199,64 @@ Next 24:
 - Complete the silly story generator.
 
 - Brainstorm questions I can ask during demo day.
+
+**Monday 9/11/23**
+
+Last 24:
+
+- I finished my week 3 assessment
+- Registered on codewars and joined the class repo
+- Left a comment in the classroom with my retrospective thoughts
+- Listened to the last 3 pages on Javascript then went back and reviewed the code
+- Read the wikipedia pages for procedural programming and programming paradigm
+- Added week 3 to my blog
+
+Next 24:
+
+- Complete the katas
+- Complete the next three exercises in FreeCodeCamp
+
+**Tuesday 9/12/23**
+
+Last 24:
+
+- I filmed a resource video for Linkedin and did not get locked in the room this time, finished all my katas, completed the debugging course on Freecodecamp
+
+Next 24: 
+
+- If project is released at 8am I'll pseudocode that and get working on code
+
+Challenge:
+
+ - I'm hellbent on not letting my hobbies and social life slip by the wayside so my goal is to knock this project out of the way in a timely manner.
+
+AHA moment:
+
+ - Open up all projects first.  I did the sum kata before the range kata and I think it would have been more helpful to reverse that order.  With the Freecodecamp I make sure to look at the order of the assigned courses before starting.
+
+**Wednesday 9/13/23**
+
+Last 24:
+
+- I completed the object oriented programming course on Freecodecamp.
+
+- I reviewed the objectives of the alarm clock project, created my workspace with the appropriate files
+
+- I drew some pseudocode on the whiteboard and posted the photo in my readme.  You can currently view it on github if you're interested.
+
+- I posted an AHA moment regarding readme checklists in the Slack.
+
+Next 24:
+
+- I will finish my project so it will be ready in time for code freeze.
+
+- I have a collaborative idea for a video on series for LinkedIn that I want to film a template of so I can pitch it to members of Awesome Inc.  (Already pitched it to my father and he rejected me so hopefully a demo will convince people it's worth their time and image being online).
+
+AHA Moment: 
+
+- This one's thanks to Jett. If you put your css or js file in a folder make sure you have the correct relative image paths in your source link.  I noticed the problem when I was able to edit my css in inspect but not in my css file.
+
+16th Minute:
+
+- I need help aligning divs horizontally in my flexbox.
+
