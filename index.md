@@ -256,3 +256,7 @@ AHA Moment:
 
 - This one's thanks to Jett. If you put your css or js file in a folder make sure you have the correct relative image paths in your source link.  I noticed the problem when I was able to edit my css in inspect but not in my css file.
 
+16th Minute:
+
+- I need help aligning divs horizontally in my flexbox.
+
