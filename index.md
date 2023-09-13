@@ -101,6 +101,11 @@ Attached is the code before and after.
 
 -  Open up all projects first.  I did the sum kata before the range kata and I think it would have been more helpful to reverse that order.  With the Freecodecamp I make sure to look at the order of the assigned courses before starting.
 
+#### Regarding Checklist Organization for Projects
+
+- This is an organizational format I learned over the summer that I'll be using to keep myself organized with the alarm clock project.  You can copy the requirements from the Google classroom and paste them into your readme file.  I like to create a checklist as I go to make sure I'm meeting the MVP but also so I can stay focused on bite-sized goals.  I like to add To Do list, Stretch Goals, and then Bugs to fix.  You can check them off as you go or order by importance. Just a tool for your toolbelt if you need.
+
+    ![Screenshot of my readme.md checklist](img/Screenshot%202023-09-13%20095141.png)
 
 ### Resources
 
@@ -231,10 +236,18 @@ Last 24:
 
 - I completed the object oriented programming course on Freecodecamp.
 
-- I reviewed the objectives of the alarm clock project, created my workspace with the appropriate files, and began writing my pseudocode.
+- I reviewed the objectives of the alarm clock project, created my workspace with the appropriate files
+
+- I drew some pseudocode on the whiteboard and posted the photo in my readme.  You can currently view it on github if you're interested.
+
+- I posted an AHA moment regarding readme checklists in the Slack.
 
 Next 24:
 
 - I will finish my project so it will be ready in time for code freeze.
 
-- I have a collaborative idea for a video on series for LinkedIn that I want to film a template of so I can pitch it to members of Awesome Inc.  (Already pitched it to my father and he rejected me so hopefully a demo will convince people it's worth their time and image being online)
+- I have a collaborative idea for a video on series for LinkedIn that I want to film a template of so I can pitch it to members of Awesome Inc.  (Already pitched it to my father and he rejected me so hopefully a demo will convince people it's worth their time and image being online).
+
+AHA Moments: 
+
+- 
