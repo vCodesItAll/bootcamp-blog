@@ -211,7 +211,7 @@ Next 24:
 
 Last 24:
 
-- I filmed a resource video for Linkedin and did not get locked in the room this time, finished all my katas, completed the debugging and object oriented programming courses on Freecodecamp
+- I filmed a resource video for Linkedin and did not get locked in the room this time, finished all my katas, completed the debugging course on Freecodecamp
 
 Next 24: 
 
@@ -223,4 +223,16 @@ Challenge:
 
 AHA moment:
 
-    - Open up all projects first.  I did the sum kata before the range kata and I think it would have been more helpful to reverse that order.  With the Freecodecamp I make sure to look at the order of the assigned courses before starting.
+ - Open up all projects first.  I did the sum kata before the range kata and I think it would have been more helpful to reverse that order.  With the Freecodecamp I make sure to look at the order of the assigned courses before starting.
+
+**Wednesday 9/13/23**
+
+Last 24:
+
+- I completed the object oriented programming course on Freecodecamp.
+
+- I reviewed the objectives of the alarm clock project, created my workspace with the appropriate files, and began writing my pseudocode.
+
+Next 24:
+
+- I will finish my project so it will be ready in time for code freeze.
