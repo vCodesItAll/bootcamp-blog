@@ -240,7 +240,7 @@ Last 24:
 
 - I completed the object oriented programming course on Freecodecamp.
 
-- I reviewed the objectives of the alarm clock project, created my workspace with the appropriate files
+- I reviewed the objectives of the alarm clock project, created my workspace with the appropriate files.
 
 - I drew some pseudocode on the whiteboard and posted the photo in my readme.  You can currently view it on github if you're interested.
 
@@ -259,4 +259,12 @@ AHA Moment:
 16th Minute:
 
 - I need help aligning divs horizontally in my flexbox.
+
+**Wednesday 9/21/23**
+
+Last 24: Pseudocoding my mind reader project in a manner that breaks it down for my own understanding.  I've written out the keys and values for each page
+
+Next 24: Focus on completing one small goal at a time on the project so I stay focused and I'm less scatterbrained.  I would rather have fewer portions to show that I have a deep understanding of then a bunch of code I threw together and through some miracle it kind of works.
+
+AHA moment: Say hi to the people you start seeing often, ask what they do, tell them you're in the bootcamp.  You'll find people are looking for junior developers.  That way you don't have to bank on meeting someone for our final demo day and to shorten that awful process of applying for jobs online.
 
