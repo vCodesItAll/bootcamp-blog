@@ -268,3 +268,10 @@ Next 24: Focus on completing one small goal at a time on the project so I stay f
 
 AHA moment: Say hi to the people you start seeing often, ask what they do, tell them you're in the bootcamp.  You'll find people are looking for junior developers.  That way you don't have to bank on meeting someone for our final demo day and to shorten that awful process of applying for jobs online.
 
+**Friday 9/25/23**
+
+Last 24: Uploaded files for the design layout project.
+
+Challenges:  I've tried to approach this bootcamp in a way that won't lead to burnout.  For me that meant not working at home once in-person classes started but I've fallen behind because I focus better when I work alone.  So I've got a plan in place.  I packed my workout clothes.  At 5 I'm going to go to the gym and then head back here and work until I'm caught up on my assignments.  I'm hoping this compromise will still make home a sacred non-working space but I still have my third-space to work and I'm breaking up the day with some healthy exercise.  I will keep you posted with how successful this new routine is.
+
+Next 24:  Get caught up.  Behind one kata and need to finish my project to get the array of symbols.
