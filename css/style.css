@@ -1,0 +1,17 @@
+.bg-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 668px;
+}
+
+.rounded-3 {
+    border-radius: 0.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mask {
+
+}
