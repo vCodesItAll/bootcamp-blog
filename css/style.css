@@ -2,6 +2,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 668px;
+    padding: 0px;
 }
 
 .rounded-3 {
@@ -13,5 +14,14 @@
 }
 
 .mask {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    position:absolute;
+    width: 100%;
+    background-repeat: repeat;
+}
 
+.noPad {
+    padding: 0;
 }
