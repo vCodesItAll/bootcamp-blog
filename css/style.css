@@ -1,0 +1,43 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+    padding-top: 56px;
+  }
+  
+  h1 {
+    font-style: italic;
+    color: #2cd3e1;
+  }
+  
+  a.carousel-control-prev:hover,
+  a.carousel-control-next:hover {
+    background-color: #a459d166;
+  }
+  
+  .carousel-indicators li {
+    background-color: #a459d1;
+  }
+  
+  .card img{
+    display: flex;
+    width: 100%;
+  }
+  
+  .card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+  }
+  
+  /* Change these colors */
+  .brand-main {
+    background-image: linear-gradient(#ffb84c, 75%, white);
+    background-attachment: fixed;
+    /* Main Background Color */
+  }
+  
+  .brand {
+    background-color: #f266ab; /* Header and Footer bar Color */
+  }
+  
