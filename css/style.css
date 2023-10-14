@@ -41,4 +41,10 @@ body {
     background-color: #f266ab; /* Header and Footer bar Color */
   }
   
-  
+  .text-truncate-11 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 11;
+    -webkit-box-orient: vertical;
+  }
