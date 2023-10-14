@@ -38,7 +38,7 @@ I like an analogy that Jacob made over the summer regarding the roles of HTML, C
 My blog is made from markdown at the moment.  I incorporate gifs and pngs for pictures.  It's formatted with unordered lists and line breaks.  As the blog develops I can use html to create a nav bar and CSS to apply some pastel colors.  I can use javascript to create a carousel or a stickied nav bar.
 
 
-![yogitocat](img\yogitocat.png)
+![yogitocat](img/yogitocat.png)
 
 ## Week 4
 
