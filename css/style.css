@@ -32,13 +32,14 @@ body {
   
   /* Change these colors */
   .brand-main {
-    background-image: linear-gradient(#ffb84c, 75%, white);
-    background-attachment: fixed;
+    background-color: #4A2A1E;
+
     /* Main Background Color */
   }
   
   .brand {
-    background-color: #f266ab; /* Header and Footer bar Color */
+    color: #4A2A1E;
+    background-color: #F2DABD; /* Header and Footer bar Color */
   }
   
   .text-truncate-11 {
@@ -48,3 +49,20 @@ body {
     -webkit-line-clamp: 11;
     -webkit-box-orient: vertical;
   }
+
+  .navbar-brand {
+    color: #4A2A1E;
+  }
+
+  a {
+    color: #4A2A1E;
+  }
+
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='%234A2A1E' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+
+  .navbar-nav a {
+    color: #4A2A1E;
+  }
+
