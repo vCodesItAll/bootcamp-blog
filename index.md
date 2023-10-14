@@ -38,6 +38,18 @@ I like an analogy that Jacob made over the summer regarding the roles of HTML, C
 My blog is made from markdown at the moment.  I incorporate gifs and pngs for pictures.  It's formatted with unordered lists and line breaks.  As the blog develops I can use html to create a nav bar and CSS to apply some pastel colors.  I can use javascript to create a carousel or a stickied nav bar.
 
 
+![yogitocat](img\yogitocat.png)
+
+## Week 4
+
+We are in Sprint 1! Goodbye, onboarding - hello, world! I chose yogitocat today because I feel calm and in the moment.  I'm ready to accept the things I learn and embrace the struggle of the unknown.
+
+I'm being held back by a desire to want to keep my old schedule with going to the gym and having time to play videogames in my downtime.  I have to embrace that this bootcamp is a short commitment to put learning at the top of my scheduling hierarchy but it's not forever.  The gym and my steam library will be waiting for me in a couple short months.
+
+I would like to learn more about JSON and not be as intimidated by it.  I can do this by reviewing old freeCodeCamp lessons and reading documentation.
+
+What is my "why" for this bootcamp?  I want independence and a new skillset to be artistic and innovative.  I want to build long term ties with my battle buddy teachers and classmates.
+
 ---
 ---
 ### AHA Moments
