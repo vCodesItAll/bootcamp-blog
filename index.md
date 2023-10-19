@@ -50,6 +50,22 @@ I would like to learn more about JSON and not be as intimidated by it.  I can do
 
 What is my "why" for this bootcamp?  I want independence and a new skillset to be artistic and innovative.  I want to build long term ties with my battle buddy teachers and classmates.
 
+![tentocats](img\tentocats.jpg)
+
+## Week 5 - Sprint 3 - Pseudocode
+> Pseudocode is an abstract concept that when you are thinking about a problem u wanna put it in logic and then taht logic can lead to thinking in the framework or software youre gonna build in.  I think it's a requirement for life
+
+-- Justin Daniel Hall, circa Fall 2023
+
+
+> I hate pseudocode
+
+-- William Carson Burroughs, circa Fall 2023
+
+
+
+
+
 ---
 ---
 ### AHA Moments

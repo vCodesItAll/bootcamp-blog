@@ -50,6 +50,8 @@ I would like to learn more about JSON and not be as intimidated by it.  I can do
 
 What is my "why" for this bootcamp?  I want independence and a new skillset to be artistic and innovative.  I want to build long term ties with my battle buddy teachers and classmates.
 
+!
+
 ---
 ---
 ### AHA Moments
