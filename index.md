@@ -53,14 +53,26 @@ What is my "why" for this bootcamp?  I want independence and a new skillset to b
 ![tentocats](img\tentocats.jpg)
 
 ## Week 5 - Sprint 3 - Pseudocode
-> Pseudocode is an abstract concept that when you are thinking about a problem u wanna put it in logic and then taht logic can lead to thinking in the framework or software youre gonna build in.  I think it's a requirement for life
+> Pseudocode is an abstract concept that when you are thinking about a problem u wanna put it in logic and then taht logic can lead to thinking in the framework or software youre gonna build in.  I think it's a requirement for life.
 
--- Justin Daniel Hall, circa Fall 2023
+-- Justin Daniel Hall, Awesome Inc Bootcamp Instructor, circa Fall 2023
 
 
 > I hate pseudocode
 
--- William Carson Burroughs, circa Fall 2023
+-- William Carson Burroughs, Awesome Inc Bootcamp Student, circa Fall 2023
+
+Pseudocode is a hotly debated topic amongst our cohort community.  Is it worth it to do?  I am obligated to say yes because my teacher is reading this.
+
+I've approached pseudocode in a variety of ways and there does not seem to be a right or wrong way to approach it as long as it helps you in writing code and helps you and others understand your code.
+
+When I applied for the bootcamp I had to submit pseudocode for making a peanut butter and jelly sandwich.  I found it so difficult. No matter how I broke down the steps I felt like there was always smaller pieces to break down.  It felt agonizing to feel like there was no end to this list of instructions.  
+
+It's helped me to learn that pseudocode does not have to be a finished product before you start coding.  It's there to help you and it's never finished so completing it - smashing the building blocks into finer and finer dust is counter-productive.  
+
+Break down your data structures.  Plan out what you need.  When you encounter one piece of it and you find yourself staring at the computer not sure of where to go that's when you can take your whittling tools and break it down.  Stop and look at the pieces. Is there enough for you to move forward?
+
+I'm still on a journey of learning to love pseudocode but I will concede it is helpful.  My morning exercises have helped me practise writing pseudocode as if I were solving the issue, or creating the user story, with pencil and paper.  No code at all.  You can always translate your process to code.  But you must first navigate what you're doing in a human perspective.  After all -- we code to improve the human experience not to write the perfect sequence of symbols on a screen (I'm looking at you, code golfers!)
 
 
 
