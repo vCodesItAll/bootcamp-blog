@@ -219,3 +219,13 @@ body {
           opacity: 0;
       }
   }
+
+  /* styles.css */
+.navbar-hover {
+  display: none;
+}
+
+.navbar-toggler:hover + .navbar-hover,
+.navbar-hover:hover {
+  display: block;
+}
